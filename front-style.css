@@ -1,0 +1,114 @@
+body {
+  font-family: 'Exo';
+}
+.container {
+  height: 2.16in;
+  width: 3.66in;
+  border: 1px solid black;
+}
+
+.name {
+  margin: 0;
+}
+
+.full-name {
+  box-sizing: border-box;
+  border-top: 1px solid #FF9700;
+  font-size: 16px;
+  margin: 0 20px;
+  font-weight: bold;
+}
+
+.title-line, .phone-line, .email-line, .website-line {
+  margin: 0 20px ;
+  font-size: 12px;
+}
+
+.space {
+  box-sizing: border-box;
+  padding-top: 20px;
+  height: 105px;
+}
+
+.stuff {
+  box-sizing: border-box;
+  background: white;
+  width: 50%;
+  position: relative;
+}
+
+.line {
+  box-sizing: border-box;
+  margin-top: 30px;
+  height: 30px;
+  padding: 0 10px;
+  position: absolute;
+}
+
+.eighteen {
+  bottom: 40px;
+}
+
+.seventeen {
+  bottom: 30px;
+}
+
+.sixteen {
+  bottom: 34px;
+}
+
+.fifteen {
+  bottom: 24px;
+}
+
+.fourteen {
+  bottom: 28px;
+}
+
+.thirteen {
+  bottom: 18px;
+}
+
+.twelve {
+  bottom: 22px;
+}
+
+.eleven {
+  bottom: 12px;
+}
+
+.ten {
+  bottom: 16px;
+}
+
+.nine {
+  bottom: 6px;
+}
+
+.eight {
+  bottom: 10px;
+}
+
+.six {
+  bottom: 4px;
+}
+
+.five {
+  top: 6px;
+}
+
+.four {
+  top: 2px;
+}
+
+.three {
+  top: 12px;
+}
+
+.two {
+  top: 8px;
+}
+
+.one {
+  top: 18px;
+}

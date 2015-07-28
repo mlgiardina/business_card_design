@@ -1,0 +1,23 @@
+.container {
+  height: 2.16in;
+  width: 3.66in;
+  box-sizing: border-box;
+  background: radial-gradient(ellipse farthest-corner, orange, red 250%);
+  text-align: center;
+  padding-top: 39px;
+  padding-bottom: 75px;
+}
+
+
+
+.initials {
+  font-family: 'VT323';
+  margin: 0;
+  font-size: 120px;
+  letter-spacing: 0.1em;
+}
+
+.first-initial, .second-initial {
+  opacity: 0.7;
+  color: white;
+}
